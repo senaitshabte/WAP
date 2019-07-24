@@ -1,0 +1,32 @@
+strong {
+	color: blue;
+	font-family : "Courier";
+	font-size: 1em;
+	font-style: italic;
+}
+body{
+	background-color : pink;  
+}
+h1,h3{
+	font-family:Verdana;
+	 color: purple;
+}
+ a:link{
+	text-decoration:none;
+}
+a:visited{
+	background-color:cyan;
+}
+a:hover{
+	background-color: green;
+}
+a:active{
+	background-color: hotpink;
+}
+p::first-letter{
+  float : left;
+  font-size   : 3em;
+}
+dt{
+	color: blue;
+}
