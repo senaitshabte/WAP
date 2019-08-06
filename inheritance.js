@@ -65,7 +65,7 @@ Student.major = "Unknown";
 Student.greeting = function () {
     return "Hey my name is " + this.name + " and I am studying " + this.major
 };
-Student.name = "Senait Habte";
+Student.name = "Bereket Abraham";
 Student.major = "WAP";
 console.log(Student.greeting());
 const Professor = Object.create(Persons);
