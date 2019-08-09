@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
+      <artifact name="Calculator:war exploded" />
       <artifact name="JSPQuizLab:war exploded" />
     </artifacts-to-build>
   </component>
@@ -169,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565392157956</updated>
-      <workItem from="1565392159850" duration="2590000" />
+      <workItem from="1565392159850" duration="2885000" />
     </task>
     <servers />
   </component>
