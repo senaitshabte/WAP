@@ -44,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Ajax_practice/gson-crud 2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -171,7 +171,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565392157956</updated>
-      <workItem from="1565392159850" duration="3054000" />
+      <workItem from="1565392159850" duration="3950000" />
+      <workItem from="1565407425963" duration="1753000" />
+      <workItem from="1565553974792" duration="664000" />
     </task>
     <servers />
   </component>
@@ -183,7 +185,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
