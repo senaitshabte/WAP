@@ -3,10 +3,6 @@ $(function() {
 });
 
 
-
-
-
-
 function updateGuests() {
     var first = $("#first").val();
     var last = $("#last").val();
